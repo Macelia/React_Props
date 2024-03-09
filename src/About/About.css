@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+.About{
+    margin: 100px ;
+    padding: 60px 30px;
+    border: 1px solid;
+    border-radius: 6px;
+    box-shadow: 0 0 10px red;
+
+}
+img{
+    margin: 20px;
+    box-shadow: 0 10px 10px;
+}
+h1{
+    margin: 30px;
+    font-size: 28px;
+}
